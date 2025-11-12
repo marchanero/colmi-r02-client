@@ -2,7 +2,7 @@
 name = "colmi-r02-client"
 version = "0.1.0"
 description = "Connect to Colmi R02 smart ring over BLE"
-authors = ["Wesley Ellis <tahnok@gmail.com>"]
+authors = ["Robert Sánchez <roberto.sanchez.reolid@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

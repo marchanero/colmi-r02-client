@@ -166,7 +166,13 @@ Some requests result in multiple responses that you have to consider together to
 
 If you want to know the actual packet structure for a given feature's request or response, take a look at the source code for that feature. I've tried to make it pretty easy to follow even if you don't know python very well. There are also some tests that you can refer to for validated request/response pairs and human readable interpretations of that data.
 
-Got questions or ideas? [Send me an email](mailto:tahnok+colmir02@gmail.com) or [open an issue](https://github.com/tahnok/colmi_r02_client/issues/new)
+Got questions or ideas?
+
+- Maintainer: Robert Sánchez ([marchanero](https://github.com/marchanero)) — <roberto.sanchez.reolid@gmail.com>
+- Report issues or feature requests on this repository: https://github.com/marchanero/colmi-r02-client/issues
+- Original project author: Wesley Ellis — tahnok+colmir02@gmail.com
+
+If you'd like to reach the original project author directly: [Send an email](mailto:tahnok+colmir02@gmail.com)
 
 ## Other links
 
